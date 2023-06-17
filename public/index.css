@@ -1,0 +1,29 @@
+#headerDiv 
+{
+    margin-left: 25%;
+    width: 50%;
+    background-color:wheat;
+    text-align: center;
+}
+
+body /*handles the backdrop of the website*/
+{
+    /*might need a second or 3rd image with will be used to display the sides in a maner where the back drop dosen't look werid*/
+    background-image: url(HayleyWilliamsBackground.jpg);
+    background-repeat: repeat-x;
+    background-position: center top;
+    background-size: auto; /*might have to change this so that it's a bit more dynamic*/
+    /*backface-visibility: visible; might undo this*/
+}
+
+
+.fullbody
+{
+    background-color: aqua;
+    width: 50%;    
+}
+
+#description
+{
+    background-color: wheat;
+}
