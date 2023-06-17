@@ -26,4 +26,20 @@ body /*handles the backdrop of the website*/
 #description
 {
     background-color: wheat;
+    text-align: left;
+    margin-left: 25%;
+    width: 50%;
+}
+
+#hayleyImage
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+#hayleyImage:hover
+{
+    width: 15%;
 }
